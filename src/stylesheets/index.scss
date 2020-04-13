@@ -1,0 +1,16 @@
+body {
+  background: #f9f9f9;
+}
+
+.nav-link {
+  cursor: pointer;
+
+  &:hover {
+    color: #007bff;
+  }
+}
+
+.pagi-wrapper {
+  width: 300px;
+  margin: 0 auto;
+}
