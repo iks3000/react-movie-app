@@ -13,7 +13,7 @@ npm run-script build
 ```
 
 ```
-npm run delpoy
+npm run deploy
 
 ```
 
