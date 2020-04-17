@@ -9,7 +9,7 @@ npm start
 ```
 
 ```
-npm run-script buid
+npm run-script build
 ```
 
 ```
